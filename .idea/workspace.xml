@@ -7,11 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de969608-cf6a-4a5f-a6fc-d3da531d0156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/acercade.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,10 +139,20 @@
       <option name="presentableId" value="Default" />
       <updated>1601068131762</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agregando Values de String, Color, Styles, Dimens.. al Crud">
+      <created>1601801739657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601801739657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Agregando Values de String, Color, Styles, Dimens.. al Crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando Values de String, Color, Styles, Dimens.. al Crud" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="21" key="#Inspections" timestamp="1601071872323">
